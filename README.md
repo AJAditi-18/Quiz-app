@@ -1,5 +1,5 @@
 # Quiz-app
-A simple quiz app created with the help of a Youtube tutorial
+A simple quiz app created with the help of a Youtube tutorial and my own experience with HTML, CSS and JavaScript
 Features:
 1. Presents a quiz with some literary questions
 2. Displays the score at the end with a specific remark for different scores
